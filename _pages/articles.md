@@ -7,8 +7,8 @@ nav: false
 nav_order: 
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications">
+<!-- _pages/articles.md -->
+<div class="articles">
 
 {% bibliography %}
 
