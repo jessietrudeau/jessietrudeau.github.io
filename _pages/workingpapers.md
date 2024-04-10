@@ -1,10 +1,9 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: working papers
+permalink: /workingpapers/
 description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
+nav: false
 display_categories: [work, fun]
 horizontal: false
 ---
