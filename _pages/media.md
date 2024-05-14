@@ -7,37 +7,28 @@ nav: true
 nav_order: 5
 ---
 
-## as instructor of record
-
-- Crime and Violence 
-    - Syracuse University, Fall 2023
-- Fighting Crime in Latin America 
-    - Syracuse University, Spring 2024; Brown University, Spring 2023; Harvard University, Spring 2020, Spring 2021
-- Politics and Geography 
-    - Syracuse University, Fall 2023; Harvard University Pre-College Summer School, 2018-2022
+## articles
 
 
-## as teaching assistant
+- Related writings: “[Brazilian police killed 27 people in a single raid this month. That doesn’t make Rio de Janeiro safer](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/).” *The Monkey Cage*, Washington Post.
 
-- Politics in Brazil 
-    - Harvard University, F. Hagopian, Fall 2020
-- Empirical Methods II 
-    -  Harvard Kennedy School of Government, G. Bruich, Spring 2018
-- Comparative Democratization 
-    - Harvard University, S. Levitsky, Spring 2018
-- Quantitative Methods for Political Science 
-    - Harvard University, X. Zhou, Fall 2017
+- In the news: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings 
 
-## awards 
 
-- Certificate of Distinction in Teaching, Harvard University Bok Center for Teaching and Learning
-    - Fall 2020, Spring 2021
 
-## guest lectures
+- Related writings: “[Lições Pandêmicas para Políticas de Segurança Pública Efetivas](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas).”*Nexo Políticas Publicas.*
 
-- Conducting surveys in international contexts
-    - Syracuse University, Survey Methods, graduate 
-- Reducing police violence in Brazil 
-    - Syracuse University, Quantitative Methods, graduate 
-    - University of Notre Dame, Policy Lab: Urban Violence, undergraduate
+
+
+
+<br>
+
+
+- In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
+
+
+
+
+
+<br>
 

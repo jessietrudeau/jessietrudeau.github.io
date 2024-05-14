@@ -10,7 +10,7 @@ nav_order: 3
 ## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
-*World Development*, 2022: 105961, p. 1-18. [<i class="fa fa-envelope"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)
+*World Development*, 2022: 105961, p. 1-18. [<i class="fa icon-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516) [pdf]({{https://jessietrudeau.github.io}}/assets/limiting_policing.pdf)
 - Related writings: “[Brazilian police killed 27 people in a single raid this month. That doesn’t make Rio de Janeiro safer](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/).” *The Monkey Cage*, Washington Post.
 
 - In the news: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings 
@@ -24,7 +24,8 @@ nav_order: 3
 <br>
 
 **How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil**  
-*EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino). 
+*EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino).  [<i class="fa icon-link"></i>](https://www.sciencedirect.com/science/article/pii/S1517758021000175)
+
 - Related writings: “[Lições Pandêmicas para Políticas de Segurança Pública Efetivas](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas).”*Nexo Políticas Publicas.*
 
 <details>
@@ -38,7 +39,7 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections**
+**How criminal governance undermines elections** [<i class="fa icon-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/637cfedbebc1c791d9ce8672)
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
 - Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
 - Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* (2022)
@@ -59,7 +60,7 @@ How does criminal governance affect elections? Existing accounts explore the con
 
 
 <details>
-   <summary>Abstract</summary>
+   <summary>Abstract</summary> 
 It is well documented that criminal groups undermine elections. Yet there is substantial variation in the techniques that different types of groups use. If a criminal group is getting involved in an election, what resources will they deploy, and who will they target? Drawing from the classic literature on comparative advantage, this project presents a theory of how criminal capital predicts electoral strategy. I focus on groups that “sell protection” and their two primary capabilities: collection capacity and protection capacity. I argue that protection rackets have efficiency advantages vis-a-vis other groups when diversifying into industries that monitor or coerce people. One such industry is voter mobilization. I test this theory in Rio de Janeiro, Brazil, where multiple types of criminal organizations are present. Drawing from granular data on voting, I use a natural experiment to compare voting under a protection racket with voting under other criminal regime types or without criminal presence. My results suggest that protection rackets are more effective at voter mobilization. Qualitative evidence, drawing from anonymous voter complaints, suggests that protection rackets are more likely to leverage their collection and protection capacity when getting votes. This theory brings together an interdisciplinary literature on industrial organization, voter mobilization, and criminal governance to explain why different types of criminal groups choose certain electoral strategies.
 </details> 
 
