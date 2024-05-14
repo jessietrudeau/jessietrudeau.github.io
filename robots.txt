@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jessietrudeau.github.io/sitemap.xml
+Sitemap: https://jessietrudeau.com/sitemap.xml
