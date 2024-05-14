@@ -10,7 +10,7 @@ nav_order: 3
 ## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
-*World Development*, 2022: 105961, p. 1-18. 
+*World Development*, 2022: 105961, p. 1-18. [<i class="fa fa-envelope"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)
 - Related writings: “[Brazilian police killed 27 people in a single raid this month. That doesn’t make Rio de Janeiro safer](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/).” *The Monkey Cage*, Washington Post.
 
 - In the news: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings 
@@ -38,7 +38,7 @@ nav_order: 3
 
 ## working papers 
 
-**How Criminal Governance Undermines Elections**
+**How criminal governance undermines elections**
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
 - Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
 - Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* (2022)
@@ -46,18 +46,19 @@ nav_order: 3
 
 <details>
     <summary>Abstract</summary>
-How does criminal governance a↵ect elections? Existing accounts explore the con- sequences of criminal involvement in politics, but have not thoroughly examined how such groups exert their influence. I argue that criminal groups undermine elections through two mechanisms: (1) gatekeeping prevents rival candidates from accessing voters and (2) corralling influences voter choice. I use a natural experiment that lever- ages exogenous variation in voter assignment to voting booths and a novel dataset on criminal governance to test my theory in Rio de Janeiro, Brazil. I show that gatekeep- ing restricts the candidate pool while corralling yields more votes for the local leading candidate. Together, these mechanisms decrease electoral competition. I illustrate the logic underpinning the mechanisms using qualitative data based on interviews and voter complaints. These findings bring together the literatures on clientelism and crim- inal governance by demonstrating that criminal groups leverage the power they derive from governing to sway elections.
+How does criminal governance affect elections? Existing accounts explore the consequences of criminal involvement in politics, but have not thoroughly examined how such groups exert their influence. I argue that criminal groups undermine elections through two mechanisms: (1) gatekeeping prevents rival candidates from accessing voters and (2) corralling influences voter choice. I use a natural experiment that leverages exogenous variation in voter assignment to voting booths and a novel dataset on criminal governance to test my theory in Rio de Janeiro, Brazil. I show that gatekeeping restricts the candidate pool while corralling yields more votes for the local leading candidate. Together, these mechanisms decrease electoral competition. I illustrate the logic underpinning the mechanisms using qualitative data based on interviews and voter complaints. These findings bring together the literatures on clientelism and criminal governance by demonstrating that criminal groups leverage the power they derive from governing to sway elections.
 </details> 
 
 
 <br>
 
 
-**Organized Crime and Voter Mobilization** 
+**Organized crime and voter mobilization** 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
 - In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
 
-</details>
+
+<details>
    <summary>Abstract</summary>
 It is well documented that criminal groups undermine elections. Yet there is substantial variation in the techniques that different types of groups use. If a criminal group is getting involved in an election, what resources will they deploy, and who will they target? Drawing from the classic literature on comparative advantage, this project presents a theory of how criminal capital predicts electoral strategy. I focus on groups that “sell protection” and their two primary capabilities: collection capacity and protection capacity. I argue that protection rackets have efficiency advantages vis-a-vis other groups when diversifying into industries that monitor or coerce people. One such industry is voter mobilization. I test this theory in Rio de Janeiro, Brazil, where multiple types of criminal organizations are present. Drawing from granular data on voting, I use a natural experiment to compare voting under a protection racket with voting under other criminal regime types or without criminal presence. My results suggest that protection rackets are more effective at voter mobilization. Qualitative evidence, drawing from anonymous voter complaints, suggests that protection rackets are more likely to leverage their collection and protection capacity when getting votes. This theory brings together an interdisciplinary literature on industrial organization, voter mobilization, and criminal governance to explain why different types of criminal groups choose certain electoral strategies.
 </details> 
@@ -72,7 +73,8 @@ It is well documented that criminal groups undermine elections. Yet there is sub
 
 My book project demonstrates that politicians often benefit from—and even seek out—deals with criminal organizations. Public officials’ willingness to engage with violent, illicit actors around elections drives three questions underpinning my research for this book:
 
-- Why would a politician collude with criminal organizations? When do the benefits of collusion outweigh the risks? 
+- Why would a politician collude with criminal organizations? 
+- When do the benefits of collusion outweigh the risks? 
 - Which candidates are more likely to strike electoral bargains with criminal groups?
 - What are the electoral and welfare consequences of collusion?
 
@@ -86,13 +88,13 @@ I develop a theory of candidate-criminal group cooperation, arguing that strikin
 ## in progress
 
 
-**A Call of Duty? Police Force Formation in Brazil.** (with Ana Paula Pellegrino and Lucas Novaes)
+**A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino and Lucas Novaes)
 
 
-**Determinants of Public Preferences for Police Hiring and Spending** (with Ana Paula Pellegrino and Tyler Simko)
+**Determinants of public preferences for police hiring and spending** (with Ana Paula Pellegrino and Tyler Simko)
 
 
-**Worksite sampling: An ethical alternative to asking about violence at the home.**
+**Worksite sampling: An ethical alternative to asking about violence at the home**
 
 
 
