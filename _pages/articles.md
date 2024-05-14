@@ -5,6 +5,13 @@ title: articles
 description: 
 nav: false
 nav_order: 
+dropdown: true
+children:
+  - title: articles
+    permalink: /articles/
+  - title: divider
+  - title: working papers
+    permalink: /workingpapers/
 ---
 
 
