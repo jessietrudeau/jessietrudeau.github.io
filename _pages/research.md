@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 
-# articles
+## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
 *World Development*, 2022: 105961, p. 1-18. 
@@ -33,7 +33,10 @@ nav_order: 3
 </details>
 
 
-# working papers 
+<br>
+
+
+## working papers 
 
 **How Criminal Governance Undermines Elections**
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
@@ -47,14 +50,49 @@ How does criminal governance a↵ect elections? Existing accounts explore the co
 </details> 
 
 
+<br>
+
+
 **Organized Crime and Voter Mobilization** 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
 - In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
 
+</details>
+   <summary>Abstract</summary>
+It is well documented that criminal groups undermine elections. Yet there is substantial variation in the techniques that different types of groups use. If a criminal group is getting involved in an election, what resources will they deploy, and who will they target? Drawing from the classic literature on comparative advantage, this project presents a theory of how criminal capital predicts electoral strategy. I focus on groups that “sell protection” and their two primary capabilities: collection capacity and protection capacity. I argue that protection rackets have efficiency advantages vis-a-vis other groups when diversifying into industries that monitor or coerce people. One such industry is voter mobilization. I test this theory in Rio de Janeiro, Brazil, where multiple types of criminal organizations are present. Drawing from granular data on voting, I use a natural experiment to compare voting under a protection racket with voting under other criminal regime types or without criminal presence. My results suggest that protection rackets are more effective at voter mobilization. Qualitative evidence, drawing from anonymous voter complaints, suggests that protection rackets are more likely to leverage their collection and protection capacity when getting votes. This theory brings together an interdisciplinary literature on industrial organization, voter mobilization, and criminal governance to explain why different types of criminal groups choose certain electoral strategies.
+</details> 
 
 
+<br>
 
 
+## book project 
+
+**Machine Gun Politics: Why Politicians Cooperate with Organized Crime**
+
+My book project demonstrates that politicians often benefit from—and even seek out—deals with criminal organizations. Public officials’ willingness to engage with violent, illicit actors around elections drives three questions underpinning my research for this book:
+
+- Why would a politician collude with criminal organizations? When do the benefits of collusion outweigh the risks? 
+- Which candidates are more likely to strike electoral bargains with criminal groups?
+- What are the electoral and welfare consequences of collusion?
+
+
+I develop a theory of candidate-criminal group cooperation, arguing that striking deals with criminal groups can be an unexpectedly successful electoral strategy for many types of politicians. I explain variation in collusive deal-making between politicians and criminal groups and enumerate two mechanisms through which criminal groups deliver votes: *gatekeeping* and *corralling*. I create an original dataset on criminal governance and leverage a natural experiment to closely examine the returns to criminal-candidate collusion in Rio de Janeiro, Brazil. My mixed-methods book manuscript draws from 18 months of in-person field research in Rio de Janeiro, dozens of candidate interviews, and an in-person survey with residents of criminally-governed communities using *worksite sampling.* 
+
+
+<br> 
+
+
+## in progress
+
+
+**A Call of Duty? Police Force Formation in Brazil.** (with Ana Paula Pellegrino and Lucas Novaes)
+
+
+**Determinants of Public Preferences for Police Hiring and Spending** (with Ana Paula Pellegrino and Tyler Simko)
+
+
+**Worksite sampling: An ethical alternative to asking about violence at the home.**
 
 
 
