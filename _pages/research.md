@@ -1,15 +1,20 @@
 ---
 layout: page
+permalink: /research/
 title: research
 nav: true
 nav_order: 3
 ---
 
 
-# Articles
+# articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
 *World Development*, 2022: 105961, p. 1-18. 
+- Related writings: “[Brazilian police killed 27 people in a single raid this month. That doesn’t make Rio de Janeiro safer](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/).” *The Monkey Cage*, Washington Post.
+
+- In the news: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings 
+
 
 <details>
     <summary>Abstract</summary>
@@ -20,6 +25,7 @@ nav_order: 3
 
 **How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil**  
 *EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino). 
+- Related writings: “[Lições Pandêmicas para Políticas de Segurança Pública Efetivas](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas).”*Nexo Políticas Publicas.*
 
 <details>
     <summary>Abstract</summary>
@@ -27,7 +33,35 @@ nav_order: 3
 </details>
 
 
-# Working Papers 
+# working papers 
+
+**How Criminal Governance Undermines Elections**
+- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
+- Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
+- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* (2022)
+
+
+<details>
+    <summary>Abstract</summary>
+How does criminal governance a↵ect elections? Existing accounts explore the con- sequences of criminal involvement in politics, but have not thoroughly examined how such groups exert their influence. I argue that criminal groups undermine elections through two mechanisms: (1) gatekeeping prevents rival candidates from accessing voters and (2) corralling influences voter choice. I use a natural experiment that lever- ages exogenous variation in voter assignment to voting booths and a novel dataset on criminal governance to test my theory in Rio de Janeiro, Brazil. I show that gatekeep- ing restricts the candidate pool while corralling yields more votes for the local leading candidate. Together, these mechanisms decrease electoral competition. I illustrate the logic underpinning the mechanisms using qualitative data based on interviews and voter complaints. These findings bring together the literatures on clientelism and crim- inal governance by demonstrating that criminal groups leverage the power they derive from governing to sway elections.
+</details> 
+
+
+**Organized Crime and Voter Mobilization** 
+- Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
+- In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
