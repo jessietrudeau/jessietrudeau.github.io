@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: https://jessietrudeau.github.io/assets/pdf/CV_Trudeau.pdf
+layout: default
+permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-description: 
+redirect_to: /assets/pdf/CV_Trudeau.pdf 
 ---

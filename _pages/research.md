@@ -6,8 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<i class="fa-solid fa-link"></i>
-
 ## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
