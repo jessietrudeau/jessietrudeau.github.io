@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-redirect_to: /assets/pdf/CV_Trudeau.pdf 
+cv_pdf: CV_Trudeau.pdf
 ---
+
