@@ -38,7 +38,8 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/637cfedbebc1c791d9ce8672)
+**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/637cfedbebc1c791d9ce8672) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)
+
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
 - Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
 - Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* (2022)
@@ -67,6 +68,18 @@ It is well documented that criminal groups undermine elections. Yet there is sub
 <br>
 
 
+**Worksite sampling: An ethical alternative to asking about violence at the home**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/Worksite_Sampling.pdf)
+
+
+<details>
+   <summary>Abstract</summary> 
+As violence, crime, and insecurity continue to be pressing problems for society and for scientific study, survey research has an important role to play. This is particularly true when theory-building about the relationship between armed groups and civil society, and understand- ing how their presence, governance, or use of force affects everyday people. Yet these concepts are often difficult to measure and recruitment could put potential respondents in harm’s way, especially when survey questions directly ask about the armed group. This paper offers suggestions for how to conduct descriptive and experimental surveys about armed actors. I argue that the use of *worksite sampling* can provide heightened protection for respondents and elicit more truthful answers when conducting surveys about criminal, rebel, or other armed group governance. This paper puts forward concrete advice addressing recruitment and sampling strategies when trying to reach residents who live under non-state governance, as well as suggestions about implementing worksite sampling more generally. Finally, this paper illustrates these suggestions with evidence from an in-person survey conducted in Rio de Janeiro, Brazil, which used work- site sampling to interview bus drivers and fare collectors about criminal governance in their neighborhoods.
+</details> 
+
+
+<br>
+
+
 ## book project 
 
 **Machine Gun Politics: Why Politicians Cooperate with Organized Crime**
@@ -88,13 +101,15 @@ I develop a theory of candidate-criminal group cooperation, arguing that strikin
 ## in progress
 
 
+**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil** (poster presented at the 2024 GLD Annual Conference)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)
+
+
 **A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino and Lucas Novaes)
 
 
 **Determinants of public preferences for police hiring and spending** (with Ana Paula Pellegrino and Tyler Simko)
 
 
-**Worksite sampling: An ethical alternative to asking about violence at the home**
 
 
 
