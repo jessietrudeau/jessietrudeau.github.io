@@ -38,7 +38,7 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/637cfedbebc1c791d9ce8672) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)
+**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/66edd58651558a15ef9a2e01) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)
 
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
 - Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
