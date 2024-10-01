@@ -21,6 +21,9 @@ May 17, 2021. *The Monkey Cage*, Washington Post.
 
 ## in the media 
 
+"[Episode 3.8: How Criminal Governance Undermines Elections, with Jessie Trudeau](https://www.scopeconditionspodcast.com/episodes/episode-38-how-criminal-governance-undermines-elections).'' \
+September 20, 2024. *Scope Conditions* Podcast interview. 
+
 
 "[Jessie Trudeau Receives the 2022 Franklin L. Burdette/Pi Sigma Alpha Award](https://politicalsciencenow.com/jessie-trudeau-receives-the-2022-franklin-l-burdette-pi-sigma-alpha-award/)."  \
 September 12, 2022. *APSA Political Science Now.*
