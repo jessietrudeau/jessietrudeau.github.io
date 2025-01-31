@@ -68,12 +68,13 @@ It is well documented that criminal groups undermine elections. Yet there is sub
 <br>
 
 
-**Worksite sampling: An ethical alternative to asking about violence at the home**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/Worksite_Sampling.pdf)
+**Worksite sampling: an underused but practical tool to sample
+hard-to-reach populations in political science**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/Worksite_Sampling.pdf)
 
 
 <details>
    <summary>Abstract</summary> 
-As violence, crime, and insecurity continue to be pressing problems for society and for scientific study, survey research has an important role to play. This is particularly true when theory-building about the relationship between armed groups and civil society, and understand- ing how their presence, governance, or use of force affects everyday people. Yet these concepts are often difficult to measure and recruitment could put potential respondents in harm’s way, especially when survey questions directly ask about the armed group. This paper offers suggestions for how to conduct descriptive and experimental surveys about armed actors. I argue that the use of *worksite sampling* can provide heightened protection for respondents and elicit more truthful answers when conducting surveys about criminal, rebel, or other armed group governance. This paper puts forward concrete advice addressing recruitment and sampling strategies when trying to reach residents who live under non-state governance, as well as suggestions about implementing worksite sampling more generally. Finally, this paper illustrates these suggestions with evidence from an in-person survey conducted in Rio de Janeiro, Brazil, which used work- site sampling to interview bus drivers and fare collectors about criminal governance in their neighborhoods.
+Despite an increasing reliance on survey data, finding and sampling understudied populations remains a serious obstacle in political science research. This is particularly true for studies where we lack a high-quality sampling frame, such as conflict or rural settings, or informal areas in the developing world. This paper offers suggestions for how to find and interview these hard-to-reach groups at their place of business rather than their homes, using a technique called worksite sampling. I argue that worksite sampling is underleveraged in political science, not just as a tool to find people, but also as a technique to improve response quality and better protect respondent safety. This paper explains the tradeoffs of using worksite sampling to find people, to elicit truthful answers, and to conduct a safer survey. This paper illustrates these suggestions with evidence from an in-person survey conducted in Rio de Janeiro, Brazil, which used worksite sampling to interview bus drivers and fare collectors about criminal governance in their neighborhoods.
 </details> 
 
 
