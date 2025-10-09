@@ -38,7 +38,7 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/66edd58651558a15ef9a2e01) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)
+**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/66edd58651558a15ef9a2e01) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf) *Invited to Revise and Resubmit at the American Journal of Political Science*
 
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
 - Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
@@ -54,14 +54,27 @@ How does criminal governance affect elections? Existing accounts explore the con
 <br>
 
 
-**Organized crime and voter mobilization** 
+**Criminal Revenue, Civic Returns: How Illicit Taxation Boosts Electoral Participation**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)
+
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
 - In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
+- (Previously titled "Criminal Capital and Voter Mobilization"
+
+<details>
+   <summary>Abstract</summary> 
+How does criminal group taxation affect participation in elections? I argue that criminal groups that tax public service provision use it as a technology of governance, which gives them a comparative advantage in voter mobilization. I predict that higher levels of criminal taxes on services ultimately lead to higher levels of voter participation, and contrast the service provision mechanism with other mechanisms related to coercive taxation and bottom-up reactions to being taxed. I test this argument in Rio de Janeiro, Brazil, where there is significant variation in taxation by drug trafficking gangs and by vigilante groups across the city’s favelas (informal settlements). To measure criminal taxation, I machine-coded text summaries of 1.45 million anonymous calls for help, and construct favela-year-level indices of criminal a) protection taxes and b) taxes on services. My empirical strategy leverages exogenous variation in favela resident presence at the ballot box to estimate the effect of exposure to criminal taxation on voting. I find that criminal taxes on services are strongly associated with higher levels of voter participation, but taxes on protection have the opposite effect. Consistent with my proposed mechanism, I find that taxes on service provision enable criminal groups to be more effective brokers, increasing participation.
+</details> 
+
+
+<br>
+
+
+**Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police** (with Isabella Montini)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)
 
 
 <details>
    <summary>Abstract</summary> 
-It is well documented that criminal groups undermine elections. Yet there is substantial variation in the techniques that different types of groups use. If a criminal group is getting involved in an election, what resources will they deploy, and who will they target? Drawing from the classic literature on comparative advantage, this project presents a theory of how criminal capital predicts electoral strategy. I focus on groups that “sell protection” and their two primary capabilities: collection capacity and protection capacity. I argue that protection rackets have efficiency advantages vis-a-vis other groups when diversifying into industries that monitor or coerce people. One such industry is voter mobilization. I test this theory in Rio de Janeiro, Brazil, where multiple types of criminal organizations are present. Drawing from granular data on voting, I use a natural experiment to compare voting under a protection racket with voting under other criminal regime types or without criminal presence. My results suggest that protection rackets are more effective at voter mobilization. Qualitative evidence, drawing from anonymous voter complaints, suggests that protection rackets are more likely to leverage their collection and protection capacity when getting votes. This theory brings together an interdisciplinary literature on industrial organization, voter mobilization, and criminal governance to explain why different types of criminal groups choose certain electoral strategies.
+Gender-based violence (GBV) is chronically underreported to law enforcement. Existing research emphasizes individual-level factors, but overlooks how broader police behavior shapes reporting. We argue that police violence has a dual effect by (1) discouraging reporting GBV to the police, while (2) shifting reporting towards third-party channels, when available. We link police records with anonymous call logs to an independent hotline to estimate the relationship between police violence and GBV reporting in Rio de Janeiro, Brazil. Our analyses demonstrate that exposure to police violence is associated with a relative decline in reporting to the police vis-a-vis the hotline. We then estimate the causal effect of an exogenous decrease in access to the anonymous hotline. GBV reports to the hotline fell by 45%, but fewer than half of these estimated callers filed a police report instead.  The areas where women were least likely to call the police in the absence of the hotline were those with high police violence. Together these findings demonstrate that police violence incentivizes women to report to alternative channels or, in their absence, to stay silent.
 </details> 
 
 
@@ -79,6 +92,7 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 
 
 <br>
+
 
 
 ## book project 
@@ -115,20 +129,6 @@ This project argues that informal settlement registries are a policy tool that c
 
 <br>
 
-
-**Under the Radar: Estimating underreporting of gender-based violence to the police** (with Isabella Montini)
-
-
-<details>
-   <summary>Abstract</summary> 
-Gender-based violence (GBV) remains underreported to law enforcement, obscuring the true prevalence of violence against women and limiting institutional responses. While existing research often attributes underreporting to personal concerns, the role of broader institutional factors is less understood. Where and why are victims more likely to report gender-based violence to the police? Under what conditions can third party reporting channels  mitigate the underreporting of GBV to the police? We study gender-based violence in Rio de Janeiro, Brazil, analyzing 3 million calls for help to an independent, anonymous tip line between 2008 and 2023. We geolocate and merge these calls with police records and precinct-level socioeconomic data to analyze divergent temporal and spatial reporting patterns, contrasting the frequency of gender-based violence reported to 1) the police or 2) the anonymous helpline. 
-<br>
-
-Our analysis offers three main insights. First, we estimate GBV underreporting to the police. We use a novel bounding exercise that contrasts police and anonymous reporting data, which highlights the specific spatial and criminal characteristics that make types of GBV particularly vulnerable to underreporting. Second, we identify key predictors of GBV. We conduct a large-N analysis of granular predictors of violence against women over time, including socioeconomic conditions, general levels of violence, and other crimes that frequently co-occur with GBV, such as drug trafficking and corruption of minors. Third, we further identify interactive effects that exacerbate GBV. We focus on areas with high levels of police violence, violent crime, and criminal governance, shedding light on how GBV is reported in the most vulnerable areas, where state presence and governance are most contested or inadequate. We substantiate this with qualitative evidence about women in marginalized regions (like Brazil’s favelas) who often rely on social services rather than law enforcement to seek help. This paper’s contribution is twofold: first, we systematically document not only the existence of GBV reporting gaps to the police, but that these gaps are wider in marginalized communities. Then, we show the observable risk factors that could be used by policymakers to mitigate these gaps. 
-</details> 
-
-
-<br>
 
 **What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil** (poster presented at the 2024 GLD Annual Conference)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)
 
