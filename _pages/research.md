@@ -54,11 +54,11 @@ How does criminal governance affect elections? Existing accounts explore the con
 <br>
 
 
-**Criminal Revenue, Civic Returns: How Illicit Taxation Boosts Electoral Participation**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)
 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
 - In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
-- (Previously titled "Criminal Capital and Voter Mobilization"
+- (Previously titled "Criminal capital and voter mobilization")
 
 <details>
    <summary>Abstract</summary> 
