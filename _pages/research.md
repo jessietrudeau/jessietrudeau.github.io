@@ -9,7 +9,7 @@ nav_order: 3
 ## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
-*World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)] [policy writing: [Washington Post](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/)] [Press: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings]
+*World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)] [policy writing: [Washington Post](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/)] [press: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings]
 
 
 <details>
@@ -20,9 +20,7 @@ nav_order: 3
 <br>
 
 **How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil**  
-*EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino).  [<i class="fa-solid fa-link"></i>](https://www.sciencedirect.com/science/article/pii/S1517758021000175)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/covid_crime.pdf)
-
-- Related writings: “[Lições Pandêmicas para Políticas de Segurança Pública Efetivas](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas).”*Nexo Políticas Publicas.*
+*EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino).  [[paper](https://www.sciencedirect.com/science/article/pii/S1517758021000175)] [policy writing: [Nexo](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas)]
 
 <details>
     <summary>Abstract</summary>
@@ -35,11 +33,11 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [<i class="fa-solid fa-link"></i>](https://preprints.apsanet.org/engage/apsa/article-details/66edd58651558a15ef9a2e01) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf) *Invited to Revise and Resubmit at the American Journal of Political Science*
+**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] *Invited to Revise and Resubmit at the American Journal of Political Science*
 
-- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, *American Political Science Association* (2022)
-- Recipient of the Best Paper Award from the Conflict Processes Section, *American Political Science Association* (2022)
-- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* (2022)
+- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
+- Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
+- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* 2022
 
 
 <details>
