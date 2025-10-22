@@ -49,7 +49,7 @@ How does criminal governance affect elections? Existing accounts explore the con
 <br>
 
 
-**Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *UNU-WIDER working paper series.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *UNU-WIDER working paper series. Submitted.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
 - Previously titled "Criminal capital and voter mobilization"
@@ -63,7 +63,7 @@ How does criminal group taxation affect participation in elections? I argue that
 <br>
 
 
-**Under the Radar: Estimating underreporting of gender-based violence to the police** (with Isabella Montini)  [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
+**Under the radar: estimating underreporting of gender-based violence to the police** (with Isabella Montini)  [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
 
 
 <details>
@@ -90,17 +90,29 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 
 ## book project 
 
-**Machine Gun Politics: Why Politicians Cooperate with Organized Crime**
+**Machine gun politics: why politicians cooperate with organized crime**
 
-My book project demonstrates that politicians often benefit from—and even seek out—deals with criminal organizations. Public officials’ willingness to engage with violent, illicit actors around elections drives three questions underpinning my research for this book:
+13\% of Latin Americans live under criminal governance. Across the region, criminal groups provide order and influence over minute details of civic life -- even electoral politics. Taken together, these residents represent a formidable voting bloc, and could single-handedly sway legislative and executive elections. Public officials’ willingness to engage with violent, illicit actors around elections drives three questions underpinning my research for this book:
 
-- Why would a politician collude with criminal organizations? 
-- When do the benefits of collusion outweigh the risks? 
-- Which candidates are more likely to strike electoral bargains with criminal groups?
-- What are the electoral and welfare consequences of collusion?
+- How does living under criminal control affect their vote choice?
+- Relatedly, how do politicians evaluate risks when approaching these voters and their criminal governors?
+- Who benefits, electorally, when criminal groups govern? 
 
 
-I develop a theory of candidate-criminal group cooperation, arguing that striking deals with criminal groups can be an unexpectedly successful electoral strategy for many types of politicians. I explain variation in collusive deal-making between politicians and criminal groups and enumerate two mechanisms through which criminal groups deliver votes: *gatekeeping* and *corralling*. I create an original dataset on criminal governance and leverage a natural experiment to closely examine the returns to criminal-candidate collusion in Rio de Janeiro, Brazil. My mixed-methods book manuscript draws from 18 months of in-person field research in Rio de Janeiro, dozens of candidate interviews, and an in-person survey with residents of criminally-governed communities using *worksite sampling.* 
+<details>
+   <summary>Short description</summary> 
+There is a strong consensus that criminal groups can influence elections. However, much of the literature focuses on criminal groups' incentives to engage with politics, leaving voters' and candidates' decisions unexplored. To understand how criminal governance affects voters' and candidates' choices during electoral campaigns, this book explores candidate-criminal electoral interactions and their consequences in Rio de Janeiro, Brazil. 
+
+Electoral cooperation is a common yet underexplored interaction between candidates and criminal groups. That candidates would strike collusive deals with organized crime could be puzzling. Partnering with criminal groups could be toxic to a candidate's reputation, criminal groups are known perpetrators of political violence, and it is often illegal to associate with them. Existing scholarship reflects these risks, often depicting candidates as one of two extremes: (1) engaging with organized crime under duress, and having little agency (passive bribe-takers or victims), or (2) deeply embedded and politically aligned (often as criminal group members themselves). However, the reality is more nuanced. 
+
+I demonstrate that professional politicians often strike strategic deals with criminal groups, and there exists a spectrum of cooperative arrangements between ``passive bribe taker" and ``fellow gangster." In fact, candidates often strike mutually beneficial bargains with organized crime, leveraging criminal groups' local influence for \textit{their} electoral gain. I argue that resolving this empirical puzzle requires an understanding of how candidates evaluate and minimize risk while on the campaign trail. Specifically, candidates minimize reputational, legal, and security risks by striking spot deals with criminal groups. When candidates are able to strike such deals, they solve the commitment problem and earn votes, while criminal groups earn a one-time payoff. The nature of the candidate-criminal group deal has downstream implications for voters: it determines how (if at all) criminal groups mobilize voters, and how accountable their elected officials are, both to the group and to the voters. The book has key implications for our understanding of not only the risk assessments candidates make, but also the ways criminal groups interact with voters and the broader implications of criminal governance on democratic participation and accountability. 
+
+The empirical evidence in this book integrates several original pieces of evidence, collected over twenty months of fieldwork in Rio de Janeiro. This includes over seventy interviews with candidates for local office, community leaders, criminal group members, and voters; an in-person survey administered to more than 350 residents subject to criminal governance; and a telephone survey administered to more than 300 candidates for local office. I also collected information from administrative and NGO records to create an original large-N database linking voting records with criminal governance and politician accountability. To compile these sources, I generated original data, scraping public websites and using text processing tools to prepare the data for analysis. Each of these sources provides important insights into the role of criminal governance in electoral politics. I evaluate my theory using a multi-method strategy that includes multiple natural and survey experiments, observational analyses, and case study comparisons. 
+
+This project focuses on Rio de Janeiro, Brazil for theoretical and empirical reasons. This setting has rich within-case variation in the types of collusive agreements (from long-term partnerships to arms-length deals) and types of criminal groups (from warring drug trafficking organizations to extortion rackets). The subnational variation allows me to hold the broader institutional setting constant to isolate the effect of deal-striking on electoral outcomes and eliminate alternative explanations.
+
+My book speaks to broad debates within comparative politics. There is not yet a theory explaining how distributive politics operate amidst criminal governance, two critical modalities of politics in the developing world that have largely been examined separately. Existing theories of criminal politics focus on what criminal groups can gain from getting involved in elections and on explaining variation in criminal violence, while leaving candidates in a black box. I depart from these studies of criminal politics by focusing on what \textit{politicians} can gain from colluding with criminal actors. Finally, this book has implications for broader debates about public security policy. To understand why governments have been largely unsuccessful at constraining criminal groups' power and have allowed violence to escalate, I argue that we must consider candidates' electoral incentives and their relationships with powerful criminal intermediaries. 
+<br>
 
 
 <br> 
@@ -108,7 +120,7 @@ I develop a theory of candidate-criminal group cooperation, arguing that strikin
 
 ## in progress
 
-**Strategic Cartography: How Map-Making Enables or Obstructs Social Inclusion** (with Ana Paula Pellegrino)
+**Strategic cartography: how map-making enables or obstructs social inclusion** (with Ana Paula Pellegrino)
 
 
 <details>
@@ -122,11 +134,13 @@ This project argues that informal settlement registries are a policy tool that c
 
 <br>
 
+**The Electoral Returns to Bending Campaign Rules: Evidence from Brazil** (with Almila Basak) 
 
-**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil** (poster presented at the 2024 GLD Annual Conference)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)
+
+**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)
 
 
-**A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino and Lucas Novaes)
+**A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub)
 
 
 
