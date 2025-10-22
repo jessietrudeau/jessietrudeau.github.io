@@ -92,7 +92,7 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 
 **Machine gun politics: why politicians cooperate with organized crime**
 
-13% of Latin Americans live under criminal governance. Across the region, criminal groups provide order and influence over minute details of civic life -- even electoral politics. Taken together, these residents represent a formidable voting bloc, and could single-handedly sway legislative and executive elections. Public officials’ willingness to engage with violent, illicit actors around elections drives three questions underpinning my research for this book:
+13% of Latin Americans live under criminal governance. Across the region, criminal groups provide order and influence over minute details of civic life -- even electoral politics. Taken together, these residents represent a formidable voting bloc, and could single-handedly sway legislative and executive elections. Criminal groups' influence over voter behavior drives three questions underpinning my research for this book:
 
 - How does living under criminal control affect their vote choice?
 - Relatedly, how do politicians evaluate risks when approaching these voters and their criminal governors?
@@ -104,22 +104,24 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 There is a strong consensus that criminal groups can influence elections. However, much of the literature focuses on criminal groups' incentives to engage with politics, leaving voters' and candidates' decisions unexplored. To understand how criminal governance affects voters' and candidates' choices during electoral campaigns, this book explores candidate-criminal electoral interactions and their consequences in Rio de Janeiro, Brazil.  
 
 <br> 
+<br> 
 
 Electoral cooperation is a common yet underexplored interaction between candidates and criminal groups. That candidates would strike collusive deals with organized crime could be puzzling. Partnering with criminal groups could be toxic to a candidate's reputation, criminal groups are known perpetrators of political violence, and it is often illegal to associate with them. Existing scholarship reflects these risks, often depicting candidates as one of two extremes: (1) engaging with organized crime under duress, and having little agency (passive bribe-takers or victims), or (2) deeply embedded and politically aligned (often as criminal group members themselves). However, the reality is more nuanced.  
 
-
+<br> 
 <br> 
 I demonstrate that professional politicians often strike strategic deals with criminal groups, and there exists a spectrum of cooperative arrangements between "passive bribe taker" and "fellow gangster." In fact, candidates often strike mutually beneficial bargains with organized crime, leveraging criminal groups' local influence for *their* electoral gain. I argue that resolving this empirical puzzle requires an understanding of how candidates evaluate and minimize risk while on the campaign trail. Specifically, candidates minimize reputational, legal, and security risks by striking spot deals with criminal groups. When candidates are able to strike such deals, they solve the commitment problem and earn votes, while criminal groups earn a one-time payoff. The nature of the candidate-criminal group deal has downstream implications for voters: it determines how (if at all) criminal groups mobilize voters, and how accountable their elected officials are, both to the group and to the voters. The book has key implications for our understanding of not only the risk assessments candidates make, but also the ways criminal groups interact with voters and the broader implications of criminal governance on democratic participation and accountability.   
 
-
+<br> 
 <br> 
 The empirical evidence in this book integrates several original pieces of evidence, collected over twenty months of fieldwork in Rio de Janeiro. This includes over seventy interviews with candidates for local office, community leaders, criminal group members, and voters; an in-person survey administered to more than 350 residents subject to criminal governance; and a telephone survey administered to more than 300 candidates for local office. I also collected information from administrative and NGO records to create an original large-N database linking voting records with criminal governance and politician accountability. To compile these sources, I generated original data, scraping public websites and using text processing tools to prepare the data for analysis. Each of these sources provides important insights into the role of criminal governance in electoral politics. I evaluate my theory using a multi-method strategy that includes multiple natural and survey experiments, observational analyses, and case study comparisons. 
 
 <br> 
+<br> 
 
 This project focuses on Rio de Janeiro, Brazil for theoretical and empirical reasons. This setting has rich within-case variation in the types of collusive agreements (from long-term partnerships to arms-length deals) and types of criminal groups (from warring drug trafficking organizations to extortion rackets). The subnational variation allows me to hold the broader institutional setting constant to isolate the effect of deal-striking on electoral outcomes and eliminate alternative explanations.
 
-
+<br> 
 <br> 
 My book speaks to broad debates within comparative politics. There is not yet a theory explaining how distributive politics operate amidst criminal governance, two critical modalities of politics in the developing world that have largely been examined separately. Existing theories of criminal politics focus on what criminal groups can gain from getting involved in elections and on explaining variation in criminal violence, while leaving candidates in a black box. I depart from these studies of criminal politics by focusing on what *politicians* can gain from colluding with criminal actors. Finally, this book has implications for broader debates about public security policy. To understand why governments have been largely unsuccessful at constraining criminal groups' power and have allowed violence to escalate, I argue that we must consider candidates' electoral incentives and their relationships with powerful criminal intermediaries. 
 </details> 
@@ -137,6 +139,7 @@ My book speaks to broad debates within comparative politics. There is not yet a 
    <summary>Abstract</summary> 
 The poor are often excluded from official maps. Developing countries, particularly their urban areas, have massive inequalities in the quality and comprehensiveness of official maps, affecting the unmapped’s access to downstream social services and resources. How does “putting people on the map” affect inequality? Can low-income maps and registries be used as policy tools to counteract the challenges of living in a low-income settlement? 
 <br>
+<br> 
 
 This project argues that informal settlement registries are a policy tool that can reduce inequality in low-income areas. We substantiate these claims in a two-step nested analysis. First, we conduct a micro-level analysis of 1,074 neighborhoods in Rio de Janeiro, Brazil that were “put on the map” at different points in time. This within-city analysis lets us hold external factors constant and compare development outcomes in different neighborhoods. The rollout of the informal settlement registry began in 1981 and is updated periodically, which also lets us estimate the cumulative effects of “being mapped” over time on inequality. Second, we conduct a meso-level analysis of 152 medium and large cities in Brazil, and the determinants of whether or not they have an informal settlement registry. We use this study to eliminate alternative explanations about the reasons for adoption of an informal settlement registry, and to show how municipal trajectories of poverty and inequality change post-adoption. These two empirical strategies consider variation at the individual, neighborhood, and municipal levels. They show how including informal settlements on the map can change the life trajectory of those living in poverty and be a powerful inequality-reduction tool – if incumbents choose to deploy it.
 </details> 
