@@ -147,13 +147,13 @@ This project argues that informal settlement registries are a policy tool that c
 
 <br>
 
-**The Electoral Returns to Bending Campaign Rules: Evidence from Brazil** (with Almila Basak) 
+**The electoral returns to bending campaign rules: evidence from Brazil** (with Almila Basak) 
 
 
 **What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)]
 
 
-**A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub)
+**A call of duty? police force formation in Brazil** (with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub)
 
 
 
