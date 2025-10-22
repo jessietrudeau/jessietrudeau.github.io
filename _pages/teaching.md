@@ -7,11 +7,13 @@ nav: true
 nav_order: 4
 ---
 
-## as instructor of record
+## undergraduate
 
-- Crime and Violence 
-    - Syracuse University, Fall 2023
-- Fighting Crime in Latin America 
-    - Syracuse University, Spring 2024; Brown University, Spring 2023; Harvard University, Spring 2020, Spring 2021
-- Politics and Geography 
-    - Syracuse University, Fall 2023; Harvard University Pre-College Summer School, 2018-2022
+- Crime and Violence: Fall 2023
+- Fighting Crime in Latin America: Spring 2024
+- Political Mapping: Fall 2023, Spring 2025
+
+## graduate 
+
+- Quantitative Methods I: Fall 2024, Fall 2025
+- Political Mapping: Spring 2025
