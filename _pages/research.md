@@ -9,7 +9,9 @@ nav_order: 3
 ## articles
 
 **Limiting aggressive policing can reduce police and civilian violence**  
-*World Development*, 2022: 105961, p. 1-18. [<i class="fa-solid fa-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/limiting_policing.pdf)
+*World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)]
+
+[<i class="fa-solid fa-link"></i>](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516) [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/limiting_policing.pdf)
 - Related writings: “[Brazilian police killed 27 people in a single raid this month. That doesn’t make Rio de Janeiro safer](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/).” *The Monkey Cage*, Washington Post.
 
 - In the news: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings 
