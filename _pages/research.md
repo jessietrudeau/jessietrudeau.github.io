@@ -33,7 +33,7 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] *Invited to Revise and Resubmit at the American Journal of Political Science*
+**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Invited to Revise and Resubmit at the American Journal of Political Science*
 
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
 - Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
@@ -49,11 +49,10 @@ How does criminal governance affect elections? Existing accounts explore the con
 <br>
 
 
-**Criminal revenue, civic returns: how illicit taxation boosts electoral participation**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *UNU-WIDER working paper series.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
 
-- Recipient of the Best Paper Award from the Subnational Politics and Society Section, *Latin American Studies Association* (2020)
-- In the news: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
-- (Previously titled "Criminal capital and voter mobilization")
+- Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
+- Previously titled "Criminal capital and voter mobilization"
 
 <details>
    <summary>Abstract</summary> 
@@ -64,7 +63,7 @@ How does criminal group taxation affect participation in elections? I argue that
 <br>
 
 
-**Under the Radar: Estimating Underreporting of Gender-Based Violence to the Police** (with Isabella Montini)  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)
+**Under the Radar: Estimating underreporting of gender-based violence to the police** (with Isabella Montini)  [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
 
 
 <details>
@@ -76,13 +75,12 @@ Gender-based violence (GBV) is chronically underreported to law enforcement. Exi
 <br>
 
 
-**Worksite sampling: an underused but practical tool to sample
-hard-to-reach populations in political science**  [<i class="fa-regular fa-file-pdf"></i>]({{https://jessietrudeau.github.io}}/assets/pdf/Worksite_Sampling.pdf)
+**Venue-based sampling: a practical tool to sample hard-to-reach populations in political science**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/vbs_polmeth_poster.pdf)]
 
 
 <details>
    <summary>Abstract</summary> 
-Despite an increasing reliance on survey data, finding and sampling understudied populations remains a serious obstacle in political science research. This is particularly true for studies where we lack a high-quality sampling frame, such as conflict or rural settings, or informal areas in the developing world. This paper offers suggestions for how to find and interview these hard-to-reach groups at their place of business rather than their homes, using a technique called worksite sampling. I argue that worksite sampling is underleveraged in political science, not just as a tool to find people, but also as a technique to improve response quality and better protect respondent safety. This paper explains the tradeoffs of using worksite sampling to find people, to elicit truthful answers, and to conduct a safer survey. This paper illustrates these suggestions with evidence from an in-person survey conducted in Rio de Janeiro, Brazil, which used worksite sampling to interview bus drivers and fare collectors about criminal governance in their neighborhoods.
+Despite an increasing reliance on survey data, finding and sampling understudied populations remains a serious obstacle in political science research. This is particularly true for studies where we lack a high-quality sampling frame, such as conflict or rural settings, or informal areas in the developing world. This paper offers suggestions for how to find and interview these hard-to-reach groups outside of their homes, using a technique called venue-based sampling. I argue that venue-based sampling is underleveraged in political science, not just as a tool to find people, but also as a technique to improve response quality and, under certain conditions, better protect respondent safety. This paper explains the tradeoffs of using venue-based sampling to find people, to elicit truthful answers, and to conduct a safer survey. This paper illustrates these suggestions with evidence from an in-person survey conducted in Rio de Janeiro, Brazil, which used a particular type of venue-based sampling -- worksite sampling -- to interview bus drivers and fare collectors about criminal governance in their neighborhoods.
 </details> 
 
 
