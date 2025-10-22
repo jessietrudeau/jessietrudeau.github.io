@@ -103,6 +103,7 @@ Despite an increasing reliance on survey data, finding and sampling understudied
    <summary>Short description</summary> 
 There is a strong consensus that criminal groups can influence elections. However, much of the literature focuses on criminal groups' incentives to engage with politics, leaving voters' and candidates' decisions unexplored. To understand how criminal governance affects voters' and candidates' choices during electoral campaigns, this book explores candidate-criminal electoral interactions and their consequences in Rio de Janeiro, Brazil. 
 
+<br> 
 
 Electoral cooperation is a common yet underexplored interaction between candidates and criminal groups. That candidates would strike collusive deals with organized crime could be puzzling. Partnering with criminal groups could be toxic to a candidate's reputation, criminal groups are known perpetrators of political violence, and it is often illegal to associate with them. Existing scholarship reflects these risks, often depicting candidates as one of two extremes: (1) engaging with organized crime under duress, and having little agency (passive bribe-takers or victims), or (2) deeply embedded and politically aligned (often as criminal group members themselves). However, the reality is more nuanced. 
 
@@ -142,7 +143,7 @@ This project argues that informal settlement registries are a policy tool that c
 **The Electoral Returns to Bending Campaign Rules: Evidence from Brazil** (with Almila Basak) 
 
 
-**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)
+**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)]
 
 
 **A call of duty? Police force formation in Brazil** (with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub)
