@@ -12,6 +12,7 @@ nav_order: 4
 - Crime and Violence: Fall 2023
 - Fighting Crime in Latin America: Spring 2024
 - Political Mapping: Fall 2023, Spring 2025
+- Global Community: Spring 2025 (team-taught) 
 
 ## graduate 
 
