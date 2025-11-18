@@ -49,7 +49,7 @@ How does criminal governance affect elections? Existing accounts explore the con
 <br>
 
 
-**Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *UNU-WIDER working paper series. Submitted.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *[UNU-WIDER working paper 86/2025](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation). Submitted.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
 - Previously titled "Criminal capital and voter mobilization"
