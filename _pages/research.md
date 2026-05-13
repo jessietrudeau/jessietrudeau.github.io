@@ -33,7 +33,7 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Invited to Revise and Resubmit at the American Journal of Political Science*
+**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Conditional Accept at the American Journal of Political Science*
 
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
 - Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
