@@ -8,6 +8,22 @@ nav_order: 3
 
 ## articles
 
+**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Conditional Accept at the American Journal of Political Science*
+
+- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
+- Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
+- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* 2022
+
+
+<details>
+    <summary>Abstract</summary>
+Existing theories of criminal governance indicate that criminal groups can influence elections, sometimes acting as brokers. I argue that criminal groups’ capacities
+as brokers stem from their control over territory and, subsequently, over voters. I theorize two criminal brokerage strategies, both made possible by territorial control: (1) gatekeeping limits rival candidates from entering the criminally governed area and (2) corralling influences vote choice. I test my theory in Rio de Janeiro, Brazil, using a natural experiment that leverages exogenous variation in voter assignment to voting booths, a novel dataset on criminal involvement in elections, and qualitative interviews. I show that fewer total candidates receive votes in areas with high gatekeeping, while criminally-aligned candidates are more likely to win in areas with high corralling. Both gatekeeping and corralling are associated with a decrease in electoral competition. These findings bring the literatures on clientelism and criminal governance closer together.
+</details> 
+
+
+<br>
+
 **Limiting aggressive policing can reduce police and civilian violence**  
 *World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)] [policy writing: [Washington Post](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/)] [press: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings]
 
@@ -33,21 +49,6 @@ nav_order: 3
 
 ## working papers 
 
-**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Conditional Accept at the American Journal of Political Science*
-
-- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
-- Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
-- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* 2022
-
-
-<details>
-    <summary>Abstract</summary>
-How does criminal governance affect elections? Existing accounts explore the consequences of criminal involvement in politics, but have not thoroughly examined how such groups exert their influence. I argue that criminal groups undermine elections through two mechanisms: (1) gatekeeping prevents rival candidates from accessing voters and (2) corralling influences voter choice. I use a natural experiment that leverages exogenous variation in voter assignment to voting booths and a novel dataset on criminal governance to test my theory in Rio de Janeiro, Brazil. I show that gatekeeping restricts the candidate pool while corralling yields more votes for the local leading candidate. Together, these mechanisms decrease electoral competition. I illustrate the logic underpinning the mechanisms using qualitative data based on interviews and voter complaints. These findings bring together the literatures on clientelism and criminal governance by demonstrating that criminal groups leverage the power they derive from governing to sway elections.
-</details> 
-
-
-<br>
-
 
 **Criminal revenue, civic returns: how illicit taxation boosts electoral participation** *[UNU-WIDER working paper 86/2025](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation). Submitted.* [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_taxation.pdf)]
 
@@ -63,12 +64,22 @@ How does criminal group taxation affect participation in elections? I argue that
 <br>
 
 
-**Under the radar: estimating underreporting of gender-based violence to the police** (with Isabella Montini)  [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
+**Under the radar: how predatory policing distorts the reporting of violence against women** (with Isabella Montini)  [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
 
 
 <details>
    <summary>Abstract</summary> 
-Gender-based violence (GBV) is chronically underreported to law enforcement. Existing research emphasizes individual-level factors, but overlooks how broader police behavior shapes reporting. We argue that police violence has a dual effect by (1) discouraging reporting GBV to the police, while (2) shifting reporting towards third-party channels, when available. We link police records with anonymous call logs to an independent hotline to estimate the relationship between police violence and GBV reporting in Rio de Janeiro, Brazil. Our analyses demonstrate that exposure to police violence is associated with a relative decline in reporting to the police vis-a-vis the hotline. We then estimate the causal effect of an exogenous decrease in access to the anonymous hotline. GBV reports to the hotline fell by 45%, but fewer than half of these estimated callers filed a police report instead.  The areas where women were least likely to call the police in the absence of the hotline were those with high police violence. Together these findings demonstrate that police violence incentivizes women to report to alternative channels or, in their absence, to stay silent.
+A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an intermediary (an independent hotline), then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the intermediated hotline. Together, these findings bring together the claim-making and policing literatures to demonstrate that police violence incentivizes citizens to report VAW to alternative channels and, in their absence, to stay silent.
+</details> 
+
+
+<br>
+
+**Criminal correlates of extra-legal taxation: evidence from Brazil** *[UNU-WIDER working paper 89/2026](https://www.wider.unu.edu/publication/criminal-correlates-extra-legal-taxation). Submitted.*
+
+<details>
+   <summary>Abstract</summary> 
+Extra-legal taxation is one of many possible tools that organized criminal groups can use to exercise control over territory and populations. Yet the use of extra-legal taxation varies greatly: it is a daily occurrence in some criminally governed communities, and a rarity in others. Where are we more likely to observe extra-legal taxation? This study explores the correlates of extra-legal taxation within the oft-criminally governed favelas of Rio de Janeiro, Brazil. Using novel data from a public security hotline, this paper examines granular, favela-level variation in two types of extra-legal taxation: protection and service taxes. We show that extra-legal taxation is strongly correlated with other forms of organized criminal activity, and is concentrated in the most populous favelas, in the favelas closer to formal transit infrastructure, and in favelas in the lower-middle band of the favela income distribution. In all, this paper contributes to our understanding of the role extra-legal taxation plays in different types of criminal governance regimes and how it interacts with the surrounding state infrastructure. 
 </details> 
 
 

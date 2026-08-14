@@ -9,6 +9,8 @@ nav_order: 5
 
 ## my public writing 
 
+"[Um complicado corpo a corpo](https://piaui.uol.com.br/web/um-complicado-corpo-a-corpo)." 
+June 25, 2026. *Piauí.*
 
 "[Lições Pandêmicas para Políticas de Segurança Pública Efetivas](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas).”  \
 December 22, 2023. *Nexo Políticas Publicas.*

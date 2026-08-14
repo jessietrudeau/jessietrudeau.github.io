@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Political Science at Syracuse University's Maxwell School of Citizenship and Public Affairs. My work spans comparative politics and political economy, with a substantive focus on crime, violence, inequality, and corruption. My research (mostly) focuses on these concepts in a Latin American context.
+I am an Assistant Professor of Political Science at Syracuse University's Maxwell School of Citizenship and Public Affairs. My work spans comparative politics and political economy, with a substantive focus on crime, violence, policing, and inequality. My research (mostly) focuses on these concepts in a Latin American context.
 
 My book project, "Machine Gun Politics: Why Politicians Cooperate with Criminal Groups," explains what politicians can gain from partnering with criminal actors. I leverage a quasi-experimental study of voting, an original database on criminal governance, and 18 months of extensive fieldwork in this mixed-methods study of Rio de Janeiro, Brazil. I received the 2023 Best Dissertation in the Study of Urban Politics Award from the Urban Politics Section of American Political Science Association (APSA) for this project, and was the runner-up for the 2023 Juan Linz Price for the Best Dissertation in the Comparative Study of Democracy from the Democracy and Autocracy Section of APSA. A paper drawing from my dissertation won the 2022 Franklin L. Burdette Pi Sigma Alpha Best Conference Paper Award at APSA and the Public Choice Society's Elinor and Vincent Ostrom Prize. 
 
