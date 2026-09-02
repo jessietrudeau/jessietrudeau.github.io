@@ -72,7 +72,7 @@ Empirically, electoral cooperation between candidates and criminal actors is com
 <br> 
 <br> 
 
-However, the reality is more nuanced. Professional politicians strike a range of deals in which they retain their agency in mutually beneficial partnerships with criminal organizations. The first major contribution of this book manuscript is to put forth a new conceptual framework characterizing the candidate as a <em>partner<em> who strikes electoral bargains with organized crime, in addition to the more limiting archetypes of pawn, criminal, or partisan. I provide empirical evidence to characterize the nature of such deals, including the terms of trade and broader institutional conditions that make such deals more likely.
+However, the reality is more nuanced. Professional politicians strike a range of deals in which they retain their agency in mutually beneficial partnerships with criminal organizations. The first major contribution of this book manuscript is to put forth a new conceptual framework characterizing the candidate as a <em>partner</em> who strikes electoral bargains with organized crime, in addition to the more limiting archetypes of pawn, criminal, or partisan. I provide empirical evidence to characterize the nature of such deals, including the terms of trade and broader institutional conditions that make such deals more likely.
 
 <br> 
 <br> 
