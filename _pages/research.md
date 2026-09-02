@@ -62,22 +62,22 @@ An estimated 13% of Latin Americans live under criminal governance. Across the r
 <details>
    <summary>Short description</summary> 
 
-There is broad consensus that criminal groups can influence elections. However, much of the literature focuses on criminal groups' incentives to engage in politics, leaving candidates' incentives in a black box. This book contributes to our understanding of the relationship between organized crime and politics by shifting the focus to _politician_ incentives and behavior in a study of the case of Rio de Janeiro, Brazil. 
+There is broad consensus that criminal groups can influence elections. However, much of the literature focuses on criminal groups' incentives to engage in politics, leaving candidates' incentives in a black box. This book contributes to our understanding of the relationship between organized crime and politics by shifting the focus to *politician* incentives and behavior in a study of the case of Rio de Janeiro, Brazil. 
 
 <br> 
 <br> 
 
-Empirically, electoral cooperation between candidates and criminal actors is common, yet it is underexplored in the literature relative to more violent or coercive interactions. That candidates would strike collusive deals with organized crime could seem puzzling: partnering with criminal groups could be toxic to a candidate's reputation, criminal groups are known perpetrators of political violence, and it is often illegal to associate with them. Existing scholarship reflects these risks, often depicting candidates as one of three limited archetypes: (1) as _pawns_, only engaging with organized crime under duress, and having little agency; (2) as _criminals_, where the candidates mitigate such risks by becoming deeply embedded within the criminal organization (or are often fellow members or leaders of the criminal group); or (3) as _partisans_, where political parties may have institutional incentives to strike deals with criminal actors, and candidates act as executing agents of their party. 
+Empirically, electoral cooperation between candidates and criminal actors is common, yet it is underexplored in the literature relative to more violent or coercive interactions. That candidates would strike collusive deals with organized crime could seem puzzling: partnering with criminal groups could be toxic to a candidate's reputation, criminal groups are known perpetrators of political violence, and it is often illegal to associate with them. Existing scholarship reflects these risks, often depicting candidates as one of three limited archetypes: (1) as *pawns*, only engaging with organized crime under duress, and having little agency; (2) as *criminals*, where the candidates mitigate such risks by becoming deeply embedded within the criminal organization (or are often fellow members or leaders of the criminal group); or (3) as *partisans*, where political parties may have institutional incentives to strike deals with criminal actors, and candidates act as executing agents of their party. 
 
 <br> 
 <br> 
 
-However, the reality is more nuanced. Professional politicians strike a range of deals in which they retain their agency in mutually beneficial partnerships with criminal organizations. The first major contribution of this book manuscript is to put forth a new conceptual framework characterizing the candidate as a _partner_ who strikes electoral bargains with organized crime, in addition to the more limiting archetypes of pawn, criminal, or partisan. I provide empirical evidence to characterize the nature of such deals, including the terms of trade and broader institutional conditions that make such deals more likely.
+However, the reality is more nuanced. Professional politicians strike a range of deals in which they retain their agency in mutually beneficial partnerships with criminal organizations. The first major contribution of this book manuscript is to put forth a new conceptual framework characterizing the candidate as a *partner* who strikes electoral bargains with organized crime, in addition to the more limiting archetypes of pawn, criminal, or partisan. I provide empirical evidence to characterize the nature of such deals, including the terms of trade and broader institutional conditions that make such deals more likely.
 
 <br> 
 <br> 
 
-Why partner with criminal organizations? The central argument is that hiring criminal groups as political brokers can be a winning electoral strategy for certain candidates. In Section I, I argue that hiring criminal groups as brokers can be an especially effective way for candidates to resolve information asymmetries about where their votes are coming from and how many they will receive. This section explains how candidates mitigate three major risks of entering criminal brokerage deals – physical, legal, and reputational – while on the campaign trail. Section II lays the microfoundations for why criminal groups can be effective brokers. I argue that criminal brokers leverage certain capabilities they derive from control over the population and control over territory to deliver votes to their candidate partners. These brokerage deals help candidates win elections. Section III argues that criminal brokerage deals have downstream implications for the population living under criminal control: first as voters, then later, as citizens. I argue that obtaining votes from criminal brokerage can reduce accountability and perpetuate inequality.
+Why partner with criminal organizations? The central argument is that hiring criminal groups as political brokers can be a winning electoral strategy for certain candidates. In Section I, I argue that hiring criminal groups as brokers can be an especially effective way for candidates to resolve information asymmetries about where their votes are coming from and how many they will receive. This section explains how candidates mitigate three major risks of entering criminal brokerage deals---physical, legal, and reputational---while on the campaign trail. Section II lays the microfoundations for why criminal groups can be effective brokers. I argue that criminal brokers leverage certain capabilities they derive from control over the population and control over territory to deliver votes to their candidate partners. These brokerage deals help candidates win elections. Section III argues that criminal brokerage deals have downstream implications for the population living under criminal control: first as voters, then later, as citizens. I argue that obtaining votes from criminal brokerage can reduce accountability and perpetuate inequality.
 
 <br> 
 <br> 
@@ -92,7 +92,7 @@ This project focuses on local politics in Rio de Janeiro, Brazil for theoretical
 <br> 
 <br> 
 
-My book speaks to broad debates within comparative politics. There is not yet a theory explaining how distributive politics operate amid criminal governance, two critical modalities of politics in the developing world that have largely been examined separately. Existing theories of criminal politics focus on what criminal groups can gain from getting involved in elections and on explaining variation in criminal violence, while leaving their candidate partners in a black box. I depart from these studies of criminal politics by focusing on what _politicians_ can gain from colluding with criminal actors. Finally, this book has implications for broader debates about public security policy. To understand why governments have been largely unsuccessful at constraining criminal groups' power and have allowed violence to escalate, I argue that we must consider candidates' electoral incentives and their relationships with powerful criminal intermediaries. 
+My book speaks to broad debates within comparative politics. There is not yet a theory explaining how distributive politics operate amid criminal governance, two critical modalities of politics in the developing world that have largely been examined separately. Existing theories of criminal politics focus on what criminal groups can gain from getting involved in elections and on explaining variation in criminal violence, while leaving their candidate partners in a black box. I depart from these studies of criminal politics by focusing on what *politicians* can gain from colluding with criminal actors. Finally, this book has implications for broader debates about public security policy. To understand why governments have been largely unsuccessful at constraining criminal groups' power and have allowed violence to escalate, I argue that we must consider candidates' electoral incentives and their relationships with powerful criminal intermediaries. 
 </details> 
 
 
@@ -102,7 +102,7 @@ My book speaks to broad debates within comparative politics. There is not yet a 
 ## working papers 
 
 
-**Criminal revenue, civic returns: how illicit taxation boosts electoral participation.** *UNU-WIDER working paper 86/2025.* Submitted.* [[paper](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation)]
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation.** *UNU-WIDER working paper 86/2025. Submitted.* [[paper](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation)]
 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
 - Previously titled "Criminal capital and voter mobilization"
@@ -146,6 +146,7 @@ Vote buying is widespread, yet we lack systematic evidence about its returns at 
 </details> 
 
 
+<br>
 
 
 **Venue-based sampling: a practical tool to sample hard-to-reach populations in political science**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/vbs_polmeth_poster.pdf)]
@@ -162,6 +163,8 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 
 ## in progress
 
+<br>
+
 **Strategic cartography: how map-making enables or obstructs social inclusion** (with Ana Paula Pellegrino)
 
 
@@ -175,7 +178,6 @@ This project argues that informal settlement registries are a policy tool that c
 </details> 
 
 
-<br>
 
 **What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)]
 
