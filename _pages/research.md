@@ -102,6 +102,17 @@ My book speaks to broad debates within comparative politics. There is not yet a 
 ## working papers 
 
 
+**Under the radar: how predatory policing distorts the reporting of violence against women.** (with Isabella Montini). *Submitted.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)]  [[pdf]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
+
+
+<details>
+   <summary>Abstract</summary> 
+A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an intermediary (an independent hotline), then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the hotline. These findings bring together the claim-making and policing literatures to demonstrate that police violence incentivizes citizens to report VAW to alternative channels and, in their absence, to stay silent.
+</details> 
+
+
+<br>
+
 **Criminal revenue, civic returns: how illicit taxation boosts electoral participation.** *UNU-WIDER working paper 86/2025. Submitted.* [[paper](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation)]
 
 - Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
@@ -116,16 +127,6 @@ How does criminal group taxation affect participation in elections? I argue that
 <br>
 
 
-**Under the radar: how predatory policing distorts the reporting of violence against women.** (with Isabella Montini). *Submitted.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)]  [[pdf]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
-
-
-<details>
-   <summary>Abstract</summary> 
-A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an intermediary (an independent hotline), then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the hotline. These findings bring together the claim-making and policing literatures to demonstrate that police violence incentivizes citizens to report VAW to alternative channels and, in their absence, to stay silent.
-</details> 
-
-
-<br>
 
 **Criminal correlates of extra-legal taxation: evidence from Brazil** *UNU-WIDER working paper 89/2026.* (with David Becerra-Medina). *Under review.* [[paper](https://www.wider.unu.edu/publication/criminal-correlates-extra-legal-taxation)]
 
