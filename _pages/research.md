@@ -8,7 +8,7 @@ nav_order: 3
 
 ## articles
 
-**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Conditional Accept at the American Journal of Political Science*
+**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Forthcoming at the American Journal of Political Science*
 
 - Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
 - Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
@@ -107,9 +107,8 @@ My book speaks to broad debates within comparative politics. There is not yet a 
 
 <details>
    <summary>Abstract</summary> 
-A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an intermediary (an independent hotline), then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the hotline. These findings bring together the claim-making and policing literatures to demonstrate that police violence incentivizes citizens to report VAW to alternative channels and, in their absence, to stay silent.
+A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards anonymous intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an anonymous tipline, then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the tipline. These findings bring together the claim-making and policing literatures to demonstrate how police violence distorts crime reporting.</details> 
 </details> 
-
 
 <br>
 
