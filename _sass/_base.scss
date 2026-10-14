@@ -1127,3 +1127,8 @@ swiper-container {
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
 }
+
+// Tighten space between a paper's citation line and its press/awards bullets
+.paper-cite {
+  margin-bottom: 0.25rem;
+}

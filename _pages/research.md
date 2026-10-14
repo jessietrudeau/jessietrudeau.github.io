@@ -8,11 +8,12 @@ nav_order: 3
 
 ## articles
 
-**How criminal governance undermines elections** [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/criminal_governance.pdf)] [press: [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)] *Forthcoming at the American Journal of Political Science*
+**How criminal governance undermines elections**  
+*Forthcoming at the American Journal of Political Science.* [[paper](/assets/pdf/criminal_governance.pdf)] [[dataverse](https://doi.org/10.7910/DVN/ZBGHKD)]
+{: .paper-cite}
 
-- Recipient of the Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022
-- Recipient of the Best Paper Award from the Conflict Processes Section, APSA 2022
-- Recipient of the Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* 2022
+- **press:** [Pindograma](https://pindograma.com.br/2020/09/07/favelas.html), [Piauí](https://piaui.folha.uol.com.br/cada-crime-no-seu-quadrado/)
+- **awards:** Franklin L. Burdette/Pi Sigma Alpha Best Paper Award, APSA 2022; Best Paper Award, Conflict Processes Section, APSA 2022; Elinor and Vincent Ostrom Prize for Best Graduate Student Paper and Presentation, *Public Choice Society* 2022
 
 
 <details>
@@ -25,7 +26,11 @@ as brokers stem from their control over territory and, subsequently, over voters
 <br>
 
 **Limiting aggressive policing can reduce police and civilian violence**  
-*World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)] [policy writing: [Washington Post](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/)] [press: [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings]
+*World Development*, 2022: 105961, p. 1-18. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0305750X22001516)]
+{: .paper-cite}
+
+- **policy writing:** [Washington Post](https://www.washingtonpost.com/politics/2021/05/17/brazilian-police-killed-27-people-single-raid-this-month-that-doesnt-make-rio-de-janeiro-safer/)
+- **press:** [The World](https://www.pri.org/stories/2021-05-07/war-scene-rio-residents-grieve-protest-against-deadly-police-raid), [Piauí](https://piaui.folha.uol.com.br/quanto-menos-policia-mais-paz/), [O Dia](https://odia.ig.com.br/rio-de-janeiro/2021/04/6123107-fogo-cruzado-participa-de-audiencia-sobre-operacoes-da-policia-em-favelas.html), ADPF Brazilian Supreme Court Proceedings
 
 
 <details>
@@ -35,8 +40,11 @@ as brokers stem from their control over territory and, subsequently, over voters
 
 <br>
 
-**How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil**  
-*EconomiA*, 2022: 147-163. (with Ana Paula Pellegrino).  [[paper](https://www.sciencedirect.com/science/article/pii/S1517758021000175)] [policy writing: [Nexo](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas)]
+**How do Covid-19 stay-at-home restrictions affect crime? evidence from Rio de Janeiro, Brazil**  
+(with Ana Paula Pellegrino). *EconomiA*, 2022: 147-163. [[paper](https://www.sciencedirect.com/science/article/pii/S1517758021000175)]
+{: .paper-cite}
+
+- **policy writing:** [Nexo](https://pp.nexojornal.com.br/opiniao/2022/li%c3%a7oes-pand%c3%aamicas-para-pol%c3%adticas-de-seguran%c3%a7a-p%c3%bablica-efetivas)
 
 <details>
     <summary>Abstract</summary>
@@ -102,20 +110,22 @@ My book speaks to broad debates within comparative politics. There is not yet a 
 ## working papers 
 
 
-**Under the radar: how predatory policing distorts the reporting of violence against women.** (with Isabella Montini). *Submitted.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)]  [[pdf]({{https://jessietrudeau.github.io}}/assets/pdf/under_the_radar.pdf)] [[policy brief]({{https://jessietrudeau.github.io}}/assets/pdf/gbv_crime_caf_brief.pdf)]
+**Under the radar: how predatory policing distorts the reporting of violence against women**  
+(with Isabella Montini). *Submitted.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)] [[pdf](/assets/pdf/under_the_radar.pdf)] [[policy brief](/assets/pdf/gbv_crime_caf_brief.pdf)]
 
 
 <details>
    <summary>Abstract</summary> 
-A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards anonymous intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an anonymous tipline, then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the tipline. These findings bring together the claim-making and policing literatures to demonstrate how police violence distorts crime reporting.</details> 
+A fundamental component of citizenship includes seeking protection from crime and violence. How do citizens make such claims to law enforcement when the police themselves are often predatory? The core argument is that police predation (1) discourages citizens from reporting crimes directly to the police while (2) shifting reporting towards anonymous intermediated channels. We argue that trust is the mechanism driving this reporting behavior. To test our theory, we focus on the reporting of violence against women (VAW) in Rio de Janeiro, Brazil. We build an original database of reports to the police and to an anonymous tipline, then conduct descriptive and causal tests to show that exposure to police violence redirects reporting from the police to the tipline. These findings bring together the claim-making and policing literatures to demonstrate how police violence distorts crime reporting.
 </details> 
 
 <br>
 
-**Criminal revenue, civic returns: how illicit taxation boosts electoral participation.** *UNU-WIDER working paper 86/2025. Submitted.* [[paper](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation)]
+**Criminal revenue, civic returns: how illicit taxation boosts electoral participation**  
+*UNU-WIDER working paper 86/2025. Submitted.* [[paper](https://www.wider.unu.edu/publication/criminal-revenue-civic-returns-how-illicit-taxation-boosts-electoral-participation)]
+{: .paper-cite}
 
-- Recipient of the Best Paper Award from the Subnational Politics and Society Section, LASA 2020
-- Previously titled "Criminal capital and voter mobilization"
+- **awards:** Best Paper Award, Subnational Politics and Society Section, LASA 2020
 
 <details>
    <summary>Abstract</summary> 
@@ -127,7 +137,8 @@ How does criminal group taxation affect participation in elections? I argue that
 
 
 
-**Criminal correlates of extra-legal taxation: evidence from Brazil** *UNU-WIDER working paper 89/2026.* (with David Becerra-Medina). *Under review.* [[paper](https://www.wider.unu.edu/publication/criminal-correlates-extra-legal-taxation)]
+**Criminal correlates of extra-legal taxation: evidence from Brazil**  
+(with David Becerra-Medina). *UNU-WIDER working paper 89/2026. Under review.* [[paper](https://www.wider.unu.edu/publication/criminal-correlates-extra-legal-taxation)]
 
 <details>
    <summary>Abstract</summary> 
@@ -138,7 +149,8 @@ Extra-legal taxation is one of many possible tools that organized criminal group
 <br>
 
 
-**The electoral returns to vote buying: Evidence from Brazil.** (with Almila Basak). [[paper]({{https://jessietrudeau.github.io}}/assets/pdf/vote_buying.pdf)]
+**The electoral returns to vote buying: evidence from Brazil**  
+(with Almila Basak). [[paper](/assets/pdf/vote_buying.pdf)]
 
 <details>
    <summary>Abstract</summary> 
@@ -149,7 +161,8 @@ Vote buying is widespread, yet we lack systematic evidence about its returns at 
 <br>
 
 
-**Venue-based sampling: a practical tool to sample hard-to-reach populations in political science**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/vbs_polmeth_poster.pdf)]
+**Venue-based sampling: a practical tool to sample hard-to-reach populations in political science**  
+[[poster](/assets/pdf/vbs_polmeth_poster.pdf)]
 
 
 <details>
@@ -163,9 +176,8 @@ Despite an increasing reliance on survey data, finding and sampling understudied
 
 ## in progress
 
-<br>
-
-**Strategic cartography: how map-making enables or obstructs social inclusion** (with Ana Paula Pellegrino)
+**Strategic cartography: how map-making enables or obstructs social inclusion**  
+(with Ana Paula Pellegrino).
 
 
 <details>
@@ -177,27 +189,12 @@ The poor are often excluded from official maps. Developing countries, particular
 This project argues that informal settlement registries are a policy tool that can reduce inequality in low-income areas. We substantiate these claims in a two-step nested analysis. First, we conduct a micro-level analysis of 1,074 neighborhoods in Rio de Janeiro, Brazil that were “put on the map” at different points in time. This within-city analysis lets us hold external factors constant and compare development outcomes in different neighborhoods. The rollout of the informal settlement registry began in 1981 and is updated periodically, which also lets us estimate the cumulative effects of “being mapped” over time on inequality. Second, we conduct a meso-level analysis of 152 medium and large cities in Brazil, and the determinants of whether or not they have an informal settlement registry. We use this study to eliminate alternative explanations about the reasons for adoption of an informal settlement registry, and to show how municipal trajectories of poverty and inequality change post-adoption. These two empirical strategies consider variation at the individual, neighborhood, and municipal levels. They show how including informal settlements on the map can change the life trajectory of those living in poverty and be a powerful inequality-reduction tool – if incumbents choose to deploy it.
 </details> 
 
+<br>
 
+**What electoral behaviors do voters complain about? a new dataset on electoral malfeasance in Brazil**  
+[[poster](/assets/pdf/poster_malfeasance.pdf)]
 
-**What electoral behaviors do voters complain about? A new dataset on electoral malfeasance in Brazil**  [[poster]({{https://jessietrudeau.github.io}}/assets/pdf/poster_malfeasance.pdf)]
+<br>
 
-
-**A call of duty? police force formation in Brazil** (with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**A call of duty? police force formation in Brazil**  
+(with Ana Paula Pellegrino, Joana Monteiro, and Michael Weintraub).
