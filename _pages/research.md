@@ -111,7 +111,7 @@ My book speaks to broad debates within comparative politics. There is not yet a 
 
 
 **Under the radar: how predatory policing distorts the reporting of violence against women**  
-(with Isabella Montini). *Submitted.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)] [[pdf](/assets/pdf/under_the_radar.pdf)] [[policy brief](/assets/pdf/gbv_crime_caf_brief.pdf)]
+(with Isabella Montini). *Under review.* [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7284178)] [[pdf](/assets/pdf/under_the_radar.pdf)] [[policy brief](/assets/pdf/gbv_crime_caf_brief.pdf)]
 
 
 <details>
