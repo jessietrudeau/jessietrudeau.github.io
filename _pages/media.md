@@ -23,6 +23,9 @@ May 17, 2021. *The Monkey Cage*, Washington Post.
 
 ## in the media 
 
+"[Operação policial violenta inibe denúncia de agressão a mulher, diz estudo](https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/11/operacao-policial-violenta-inibe-denuncia-de-agressao-a-mulher-diz-estudo.htm)."  \
+November 11, 2026. *UOL.*
+
 "[Episode 3.8: How Criminal Governance Undermines Elections, with Jessie Trudeau](https://www.scopeconditionspodcast.com/episodes/episode-38-how-criminal-governance-undermines-elections).'' \
 September 20, 2024. *Scope Conditions* Podcast interview. 
 
